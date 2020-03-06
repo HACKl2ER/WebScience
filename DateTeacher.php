@@ -166,7 +166,7 @@ line-height: 22px;
 									<li><a href="https://www.facebook.com/sskruthailand/"><i class="fa fa-facebook"></i></a></li>
 									<li><a href="https://twitter.com/sskruthailand"><i class="fa fa-twitter"></i></a></li>
 									<li><a href="https://www.instagram.com/sskru.thailand/"><i class="fa fa-instagram"></i></a></li>
-									<li><a href="https://github.com/HACKl2ER/Website.git"><i class="fa fa-github"></i></a></li>
+									<li><a href="https://github.com/HACKl2ER/WebScience.git"><i class="fa fa-github"></i></a></li>
 								</ul>
 							</div>
                         </div>

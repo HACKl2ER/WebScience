@@ -64,7 +64,7 @@
 								<a title="Instagram" href="https://www.instagram.com/sskru.thailand/">
 									<span class="social-icon"><i class="fa fa-instagram"></i></span>
 								</a>
-								<a title="Linkdin" href="https://github.com/HACKl2ER/website.git">
+								<a title="Linkdin" href="https://github.com/HACKl2ER/WebScience.git">
 									<span class="social-icon"><i class="fa fa-github"></i></span>
 								</a>
 							</li>
