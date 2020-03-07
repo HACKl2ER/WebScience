@@ -658,7 +658,7 @@
    }
    
    function showHomePage(){
-   $.get("http://localhost/WebScience/main2.php", function(data, status){
+   $.get("http://localhost/WebScience/main.php", function(data, status){
      //alert("Data: " + data + "\nStatus: " + status);
      document.getElementById("body_content_info").innerHTML = data;
    });
